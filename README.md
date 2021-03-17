@@ -2,4 +2,4 @@
 
 ## Installation
 
-Install via `composer require rinvex/laravel-support`
+Install via `composer require dnsoft/dnsoft-support`
